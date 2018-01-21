@@ -17,7 +17,8 @@ const config = {
     contentBase: path.join(__dirname, dist),
     port: 9000,
     hot: true,
-    open: true
+    open: true,
+    watchContentBase: true
   },
   module: {
     rules: [
