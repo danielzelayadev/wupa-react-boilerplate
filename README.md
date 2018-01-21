@@ -1,5 +1,9 @@
 # Wupa React Boilerplate
 
+This is a custom boilerplate to satisfy my React development needs whenever I
+want to start a new side project with my preferred tools and config. **This
+boilerplate is not production ready.**
+
 ## Includes
 
 * [Env Preset](https://babeljs.io/docs/plugins/preset-env/)
