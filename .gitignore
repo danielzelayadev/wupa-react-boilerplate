@@ -1,0 +1,6 @@
+node_modules
+build
+coverage
+.DS_STORE
+yarn-debug.log*
+yarn-error.log*
